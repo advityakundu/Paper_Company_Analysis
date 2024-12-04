@@ -1,7 +1,7 @@
 
 ### SQL & Data Analysis Project - Paper Company Analysis
 
-Hello, I'm Advitya Kundu. This repository showcases my skills in SQL and Data Analysis through an analysis of a fictitious paper company. The data and analysis are part of a university project, designed to demonstrate the knowledge I've acquired.
+Hello, I'm Advitya Kundu. This repository showcases my skills in SQL and Data Analysis through an analysis of a fictitious paper company. The data and analysis are part of a personal project, designed to demonstrate the knowledge I've acquired.
 
 #### Project Overview
 
